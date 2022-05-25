@@ -8,6 +8,7 @@ My Knowledges:
 
 In progress:
 - Flask;
+- Bootstrap;
 - Django;
 - Tkinter;
 - SQL server;

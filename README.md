@@ -8,6 +8,7 @@ My Knowledge:
 - Basics knowledge in Pandas;
 - Basics knowledge in Selenium;
 - Basics knowledge in Pyautogui;
+- Basics knowledge in SQLite;
 
 
 

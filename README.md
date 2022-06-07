@@ -7,6 +7,7 @@ My Knowledges:
 - Basic in Pygame, Pandas, Selenium, Pyautogui, SQLite, Flask and Bootstrap.
 
 In progress:
+- Kivy;
 - Tkinter;
 - Django;
 - SQL server;

@@ -16,6 +16,7 @@ In progress:
  
 I update this profile constantly, so I'll be grateful if you follow me. 🤝
 
+
 <!---
 VitorPinheiroCruz/VitorPinheiroCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

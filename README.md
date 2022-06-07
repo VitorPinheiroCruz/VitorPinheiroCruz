@@ -4,13 +4,11 @@ Feel free to look at my repositories and give me some tips.
 
 My Knowledges:
 - Intermediate in Python;
-- Basic in Pygame, Pandas, Selenium, Pyautogui and SQLite.
+- Basic in Pygame, Pandas, Selenium, Pyautogui, SQLite, Flask and Bootstrap.
 
 In progress:
-- Flask;
-- Bootstrap;
-- Django;
 - Tkinter;
+- Django;
 - SQL server;
 - Power BI.
 

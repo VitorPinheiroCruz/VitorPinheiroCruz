@@ -8,6 +8,7 @@ My Knowledges:
 
 In progress:
 - Kivy;
+- Firebase;
 - Tkinter;
 - Django;
 - SQL server;
